@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "How Sweet",
+  "base_artist": "NewJeans",
+  "createdAt": "2025-12-07T09:31:50.673081Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How Sweet It Was",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/01_How_Sweet_It_Was_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How Sweet",
+      "artist": "Ultra Vivid Scene",
+      "has_synced": false,
+      "path": "select/02_How_Sweet_Ultra_Vivid_Scene.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How Sweet It Is (To Be Loved By You)",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/03_How_Sweet_It_Is_(To_Be_Loved_By_You)_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How Sweet It Is To Be Loved By You",
+      "artist": "James Taylor",
+      "has_synced": false,
+      "path": "select/04_How_Sweet_It_Is_To_Be_Loved_By_You_James_Taylor.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "How Sweet Can You Get",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/05_How_Sweet_Can_You_Get_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "How Sweet Can You Get? (First Version)",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/06_How_Sweet_Can_You_Get__(First_Version)_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How Sweet Can You Get (First Version)",
+      "artist": "Average White Band",
+      "has_synced": true,
+      "path": "select/07_How_Sweet_Can_You_Get_(First_Version)_Average_White_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "How Sweet It Is",
+      "artist": "James Taylor",
+      "has_synced": false,
+      "path": "select/08_How_Sweet_It_Is_James_Taylor.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How Sweet It Is (To Be Loved By You)",
+      "artist": "James Taylor",
+      "has_synced": true,
+      "path": "select/09_How_Sweet_It_Is_(To_Be_Loved_By_You)_James_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Sweet the Answer",
+      "artist": "Sarah Brightman",
+      "has_synced": false,
+      "path": "select/10_How_Sweet_the_Answer_Sarah_Brightman.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How Sweet It Is",
+      "artist": "Michael Bublé",
+      "has_synced": true,
+      "path": "select/11_How_Sweet_It_Is_Michael_Bublé.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How Sweet It Is (To Be Loved By You)",
+      "artist": "Jr. Walker & The All Stars",
+      "has_synced": true,
+      "path": "select/12_How_Sweet_It_Is_(To_Be_Loved_By_You)_Jr._Walker_&_The_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "How Sweet It Is ( To Be Loved By You)",
+      "artist": "Jr. Walker & The All Stars",
+      "has_synced": true,
+      "path": "select/13_How_Sweet_It_Is_(_To_Be_Loved_By_You)_Jr._Walker_&_The_All_Stars.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "How Sweet It Is (To Be Loved By You)",
+      "artist": "Michael McDonald",
+      "has_synced": true,
+      "path": "select/14_How_Sweet_It_Is_(To_Be_Loved_By_You)_Michael_McDonald.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How Sweet",
+      "artist": "NewJeans",
+      "has_synced": false,
+      "path": "select/pl_01_How_Sweet_NewJeans.txt"
+    }
+  ]
+}
